@@ -14,7 +14,7 @@ This system supports dynamic interactions via a Thought/Action/Observation (TAO)
 
 ## Requirements
 - Python 3.x
-- Libraries: `pandas`, `numpy`, `matplotlib`, `sklearn`, `groq`, `llama`, etc. (list all dependencies)
+- Libraries: `pandas`, `numpy`, `matplotlib`, `sklearn`, `groq`, `llama`, etc.
 - Groq and LLaMA integration
 
 ## Installation
